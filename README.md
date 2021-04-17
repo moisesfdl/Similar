@@ -5,7 +5,7 @@ Assimilar
 #include <io.h>
 #include <>
 
-Analise(log"Dialeto"&&log"Ver"&&log"Copiar"&&log"Comportamento");
+Analise(log"Dialeto" && log"Ver" && log"Escrever" && log"Comportamento");
 Similar(*(*Base)ptr));
 Base(ColetaDados(log));
 #define "Similar";
@@ -15,7 +15,7 @@ do(Similar);
 	{
 		Analise();
 		int Similar;
-		Similar CMDOs
+		Similar CMDOs;
 			int Base;
 		Base(Box);
 		&Ref Assimilar;
@@ -33,16 +33,17 @@ do(Similar);
 	{
 		Analise();
 		int Similar;
-		Similar CMDOs
+		Similar CMDOs;
 			int Base;
 		Base(Box);
 		&Ref Assimilar;
 		*(*Binary)ptr;
 		std::cout << "Binary: " << Assimilar"ptr" << std::endl;
-		std::scanf >> Assimilar"Copiar";
+		std::scanf Assimilar"Copia";
+		Copia(log"Comportamento"||log"Dialeto");
 		load((*ptr)Base(? / !) * log);
 		std::cout << "Assimilar: Base: " << Base"log" << std::endl;
-		std::scanf >> Assimilar(BaseCopiar(User || !/ User) "&logAssimilar");
+		std::scanf >> Assimilar(BaseCopia(User || !/ User) "&logAssimilar");
 		Anlise(structur.log);
 		system("Assimilar");
 		return (Base"log");
@@ -58,7 +59,8 @@ do(Similar);
 		*(*Binary)ptr;
 		std::cout << "Binary: " << Assimilar"ptr" << std::endl;
 		std::scanf >> Assimilar"Dialeto";
-		load((*ptr)Base(? / !) * log);
+		Dialeto(sething"linguagem"Binary"lingue");
+		load{(*ptr)Base(? / !) * log};
 		std::cout << "Assimilar: Base: " << Base"log" << std::endl;
 		std::scanf >> Assimilar(BaseDialeto(User || !/ User) "&logAssimilar");
 		Anlise(structur.log);
@@ -85,5 +87,6 @@ do(Similar);
 	},
 
 };
+
 
 falta mas opiniao , teria que construir um grupo de trabalho pra ter mas logica e dinamica de liguagem , isso e minha opniao , mas eu aceita opniao.
