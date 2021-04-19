@@ -1,92 +1,115 @@
-//moises ferreira de lima
+//©moises ferreira de lima
 //moisesfdl_pbt@hotmail.com.br
-# Similar
-Assimilar
-
-
 #include <io.h>
-#include <>
+#include <similar.h>
+#include <assert.h>
+#include <assimilar.h>
+#include "similar/"
 
-Analise(log"Dialeto" && log"Ver" && log"Escrever" && log"Comportamento");
-Similar(*(*Base)ptr));
-Base(ColetaDados(log));
-#define "Similar";
+#define Assimlar:
+
+Assimilar{Base{Ver && Escrever(log) }};
+Similar(*(*Base)ptr)Similar);
+Base{ ColetaDados(log) };
+Assimlar{ Comportamento && Movimento && GiriaLinguagem && Dialeto };
 do(Similar);
 {
 	int main()
 	{
-		Analise();
-		int Similar;
-		Similar CMDOs;
-			int Base;
-		Base(Box);
-		&Ref Assimilar;
-		*(*Binary)ptr;
-		std::cout << "Binary: " << Assimilar << *ptr[1,GBit] << std::endl;
-		std::scanf >> Assimilar"Ver";
-		load((*ptr)Base(? / !) * log);
-		std::cout << "Assimilar: Base: " << Base"log" << std::endl;
-		std::scanf >> Assimilar(BaseVer(User || !/ User) "&logAssimilar");
-		Anlise(structur.log);
-		system("Assimilar");
-		return (Base"log");
-	},
+		int Copia;
+		*(*Similar)ptr;
+		Copia{ Dialeto };
+		std::cout << "SimilarBinary" << Dialeto << ": " << std::endl;
+		std::cout << "SimilarBinary" << Assimalar << ": " << std::endl;
+		int main()
+		{
+			void Copia;
+			Analise(void);
+			int Similar;
+			Similar CMDOs;
+			int void Base;
+			Base(Box);
+			&Ref Assimilar;
+			*(*Binary)ptr;
+			std::string >> "NomeTuto" >> Nome >> std::endl;
+			std::cout << "BinarySimilar" << Assimilar << *ptr[1, GBit] << ": " << std::endl;
+			std::cout << "BinarySimilar: " >> Assimilar << Base(Copia) :log << std::endl;
+		Similar:h((*ptr)BaseCopia(? / !) * log);
+			std::cout << "BinarySimilar: " << Assimilar << Analise"Base"log << std::endl;
+			std::cout << "BinarySimilar: " << Assimilar(BaseCopia)log <<
+				Assimilar:Analise(User"Copia" || !/ User"%Copia") << std::endl;
+			std::cout << "BinarySimilar: " << ? / Tutor ? << CopiaDialeto : (s || n) || (Tutor : (s!!!CopiaDialeto) ? );
+			structur{ Analise(Base) & log"Dialeto" };
+			system("Assimilar");
+			return (similar"==");
+		},
+			system("Comportamento");
+		return Similar;
+	};
 		int main()
 	{
-		Analise();
-		int Similar;
-		Similar CMDOs;
-			int Base;
-		Base(Box);
-		&Ref Assimilar;
-		*(*Binary)ptr;
-		std::cout << "Binary: " << Assimilar << *ptr[1,GBit] << std::endl;
-		std::scanf Assimilar"Copia";
-		Copia(log"Comportamento"||log"Dialeto");
-		load((*ptr)Base(? / !) * log);
-		std::cout << "Assimilar: Base: " << Base"log" << std::endl;
-		std::scanf >> Assimilar(BaseCopia(User || !/ User) "&logAssimilar");
-		structur{Analise(Base)&log};
-		system("Assimilar");
-		return (similar"==");
-	},
+		int Copia;
+		*(*Similar)ptr;
+		Copia{ Movimento };
+		std::cout << "SimilarBinary" << Movimento << ": " << std::endl;
+		std::cout << "SimilarBinary" << Assimalar << ": " << std::endl;
 		int main()
+		{
+			void Copia;
+			Analise(void);
+			int Similar;
+			Similar CMDOs;
+			int void Base;
+			Base(Box);
+			&Ref Assimilar;
+			*(*Binary)ptr;
+			std::string >> "NomeTuto" >> Nome >> std::endl;
+			std::cout << "BinarySimilar" << Assimilar << *ptr[1, GBit] << ": " << std::endl;
+			std::cout << "BinarySimilar: " >> Assimilar << Base(Copia) :log << std::endl;
+		Similar:h((*ptr)BaseCopia(? / !) * log);
+			std::cout << "BinarySimilar: " << Assimilar << Analise"Base"log << std::endl;
+			std::cout << "BinarySimilar: " << Assimilar(BaseCopia)log <<
+				Assimilar:Analise(User"Copia" || !/ User"%Copia") << std::endl;
+			std::cout << "BinarySimilar: " << ? / Tutor ? << CopiaMovimento : (s || n) || (Tutor : (s!!!CopiaMovimento) ? );
+			structur{ Analise(Base) & log"Movimento" };
+			system("Assimilar");
+			return (similar"==");
+		},
+			system("Comportamento");
+		return Similar;
+	};
+	int main()
 	{
-		Analise();
-		int Similar;
-		Similar CMDOs
-			int Base;
-		Base(Box);
-		&Ref Assimilar;
-		*(*Binary)ptr;
-		std::cout << "Binary: " << Assimilar << *ptr[1,GBit] << std::endl;
-		std::scanf >> Assimilar"Dialeto";
-		Dialeto(sething"linguagem"Binary"lingue");
-		load{(*ptr)Base(? / !) * log};
-		std::cout << "Assimilar: Base: " << Base"log" << std::endl;
-		std::scanf >> Assimilar(BaseDialeto(User || !/ User) "&logAssimilar");
-		structur{Analise(Base)&log};
-		system("Assimilar");
-		return (similar"==");
-	},
+		int Copia;
+		*(*Similar)ptr;
+		Copia{ Comportamento || Movimento || GiriaLinguagem || };
+		std::cout << "SimilarBinary" << Comportamento << ": " << std::endl;
+		std::cout << "SimilarBinary" << Assimalar << ": " << std::endl;
 		int main()
-	{
-		Analise();
-		int Similar;
-		Similar CMDOs
-			int Base;
-		Base(Box);
-		&Ref Assimilar;
-		*(*Binary)ptr;
-		std::cout << "Binary: " << Assimilar << *ptr[1,GBit] << std::endl;
-		std::scanf >> Assimilar"Comportamento";
-		((*ptr)Base(? / !) * log);
-		std::cout << "Assimilar: Base: " << Base"log" << std::endl;
-		std::scanf >> Assimilar(BaseComportamento(User || !/ User) "&logAssimilar");
-		structur{Analise(Base)&log};
-		system("Assimilar");
-		return (similar"==");
-	},
+		{
+			void Copia;
+			Analise(void);
+			int Similar;
+			Similar CMDOs;
+			int void Base;
+			Base(Box);
+			&Ref Assimilar;
+			*(*Binary)ptr;
+			std::string >> "NomeTuto" >> Nome >> std::endl;
+			std::cout << "BinarySimilar" << Assimilar << *ptr[1, GBit] << ": " << std::endl;
+			std::cout << "BinarySimilar: " >> Assimilar << Base(Copia) :log << std::endl;
+		Similar:h((*ptr)BaseCopia(? / !) * log);
+			std::cout << "BinarySimilar: " << Assimilar << Analise"Base"log << std::endl;
+			std::cout << "BinarySimilar: " << Assimilar(BaseCopia)log <<
+				Assimilar:Analise(User"Copia" || !/ User"%Copia") << std::endl;
+			std::cout << "BinarySimilar: " << ? / Tutor ? << CopiaComportamento : (s || n) || (Tutor : (s!!!CopiaComportamento) ? );
+			structur{ Analise(Base) & log"Comportamento" };
+			system("Assimilar");
+			return (similar"==");
+		},
+			system("Comportamento");
+		return Similar;
+	};
 
 };
 
