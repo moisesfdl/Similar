@@ -111,7 +111,7 @@ do(Similar);
 		return Similar;
 	};
 
-};
+}while("PAUSE");
 
 
 falta mas opiniao , teria que construir um grupo de trabalho pra ter mas logica e dinamica de liguagem , isso e minha opniao , mas eu aceita opniao.
