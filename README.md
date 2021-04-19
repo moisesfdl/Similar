@@ -38,7 +38,7 @@ do(Similar);
 			std::cout << "BinarySimilar: " << Assimilar << Analise"Base"log << std::endl;
 			std::cout << "BinarySimilar: " << Assimilar(BaseCopia)log <<
 				Assimilar:Analise(User"Copia" || !/ User"%Copia") << std::endl;
-			std::cout << "BinarySimilar: " << ? / Tutor ? << CopiaDialeto : (s || n) || (Tutor : (s!!!CopiaDialeto) ? );
+			std::cout << "BinarySimilar: " << ? / Tutor ? << CopiaDialeto : ?(s || !||~||n) || (Tutor : (s!!!CopiaDialeto) ? );
 			structur{ Analise(Base) & log"Dialeto" };
 			system("Assimilar");
 			return (similar"==");
@@ -70,7 +70,7 @@ do(Similar);
 			std::cout << "BinarySimilar: " << Assimilar << Analise"Base"log << std::endl;
 			std::cout << "BinarySimilar: " << Assimilar(BaseCopia)log <<
 				Assimilar:Analise(User"Copia" || !/ User"%Copia") << std::endl;
-			std::cout << "BinarySimilar: " << ? / Tutor ? << CopiaMovimento : (s || n) || (Tutor : (s!!!CopiaMovimento) ? );
+			std::cout << "BinarySimilar: " << ? / Tutor ? << CopiaMovimento : (s || !||~||n) || (Tutor : (s!!!CopiaMovimento) ? );
 			structur{ Analise(Base) & log"Movimento" };
 			system("Assimilar");
 			return (similar"==");
@@ -102,7 +102,7 @@ do(Similar);
 			std::cout << "BinarySimilar: " << Assimilar << Analise"Base"log << std::endl;
 			std::cout << "BinarySimilar: " << Assimilar(BaseCopia)log <<
 				Assimilar:Analise(User"Copia" || !/ User"%Copia") << std::endl;
-			std::cout << "BinarySimilar: " << ? / Tutor ? << CopiaComportamento : (s || n) || (Tutor : (s!!!CopiaComportamento) ? );
+			std::cout << "BinarySimilar: " << ? / Tutor ? << CopiaComportamento : (s || !||~||n) || (Tutor : (s!!!CopiaComportamento) ? );
 			structur{ Analise(Base) & log"Comportamento" };
 			system("Assimilar");
 			return (similar"==");
