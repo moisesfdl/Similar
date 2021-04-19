@@ -22,7 +22,7 @@ do(Similar);
 		Base(Box);
 		&Ref Assimilar;
 		*(*Binary)ptr;
-		std::cout << "Binary: " << Assimilar"ptr" << std::endl;
+		std::cout << "Binary: " << Assimilar << *ptr[1,GBit] << std::endl;
 		std::scanf >> Assimilar"Ver";
 		load((*ptr)Base(? / !) * log);
 		std::cout << "Assimilar: Base: " << Base"log" << std::endl;
@@ -40,15 +40,15 @@ do(Similar);
 		Base(Box);
 		&Ref Assimilar;
 		*(*Binary)ptr;
-		std::cout << "Binary: " << Assimilar"ptr" << std::endl;
+		std::cout << "Binary: " << Assimilar << *ptr[1,GBit] << std::endl;
 		std::scanf Assimilar"Copia";
 		Copia(log"Comportamento"||log"Dialeto");
 		load((*ptr)Base(? / !) * log);
 		std::cout << "Assimilar: Base: " << Base"log" << std::endl;
 		std::scanf >> Assimilar(BaseCopia(User || !/ User) "&logAssimilar");
-		Anlise(structur.log);
+		structur{Analise(Base)&log};
 		system("Assimilar");
-		return (Base"log");
+		return (similar"==");
 	},
 		int main()
 	{
@@ -59,15 +59,15 @@ do(Similar);
 		Base(Box);
 		&Ref Assimilar;
 		*(*Binary)ptr;
-		std::cout << "Binary: " << Assimilar"ptr" << std::endl;
+		std::cout << "Binary: " << Assimilar << *ptr[1,GBit] << std::endl;
 		std::scanf >> Assimilar"Dialeto";
 		Dialeto(sething"linguagem"Binary"lingue");
 		load{(*ptr)Base(? / !) * log};
 		std::cout << "Assimilar: Base: " << Base"log" << std::endl;
 		std::scanf >> Assimilar(BaseDialeto(User || !/ User) "&logAssimilar");
-		Anlise(structur.log);
+		structur{Analise(Base)&log};
 		system("Assimilar");
-		return (Base"log");
+		return (similar"==");
 	},
 		int main()
 	{
@@ -78,14 +78,14 @@ do(Similar);
 		Base(Box);
 		&Ref Assimilar;
 		*(*Binary)ptr;
-		std::cout << "Binary: " << Assimilar"ptr" << std::endl;
+		std::cout << "Binary: " << Assimilar << *ptr[1,GBit] << std::endl;
 		std::scanf >> Assimilar"Comportamento";
-		load((*ptr)Base(? / !) * log);
+		((*ptr)Base(? / !) * log);
 		std::cout << "Assimilar: Base: " << Base"log" << std::endl;
 		std::scanf >> Assimilar(BaseComportamento(User || !/ User) "&logAssimilar");
-		Anlise(structur.log);
+		structur{Analise(Base)&log};
 		system("Assimilar");
-		return (Base"log");
+		return (similar"==");
 	},
 
 };
