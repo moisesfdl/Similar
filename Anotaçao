@@ -2,9 +2,11 @@ funçao analitica log(palavras)
 escopo{
 analise:
 mescla{linguagem,giria}
-==tutor;
+==tutor
+tutor:{seleciona linguagem};
 comportamento{
 ==tutor;
+tutor:{seleciona comportamento};
 }
 personalidade:
 ==tutor;
