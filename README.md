@@ -21,7 +21,7 @@ do(Similar);
 		Copia{ Dialeto };
 		std::cout << "SimilarBinary" << Dialeto << ": " << std::endl;
 		std::cout << "SimilarBinary" << Assimalar << ": " << std::endl;
-		int main()
+		if()
 		{
 			void Copia;
 			Analise(void);
@@ -34,7 +34,7 @@ do(Similar);
 			std::string >> "NomeTuto" >> Nome >> std::endl;
 			std::cout << "BinarySimilar" << Assimilar << *ptr[1, GBit] << ": " << std::endl;
 			std::cout << "BinarySimilar: " >> Assimilar << Base(Copia) :log << std::endl;
-		Similar:h((*ptr)BaseCopia(? / !) * log);
+			Similar:h((*ptr)BaseCopia(? / !) * log);
 			std::cout << "BinarySimilar: " << Assimilar << Analise"Base"log << std::endl;
 			std::cout << "BinarySimilar: " << Assimilar(BaseCopia)log <<
 				Assimilar:Analise(User"Copia" || !/ User"%Copia") << std::endl;
@@ -53,7 +53,7 @@ do(Similar);
 		Copia{ Movimento };
 		std::cout << "SimilarBinary" << Movimento << ": " << std::endl;
 		std::cout << "SimilarBinary" << Assimalar << ": " << std::endl;
-		int main()
+		if()
 		{
 			void Copia;
 			Analise(void);
@@ -66,7 +66,7 @@ do(Similar);
 			std::string >> "NomeTuto" >> Nome >> std::endl;
 			std::cout << "BinarySimilar" << Assimilar << *ptr[1, GBit] << ": " << std::endl;
 			std::cout << "BinarySimilar: " >> Assimilar << Base(Copia) :log << std::endl;
-		Similar:h((*ptr)BaseCopia(? / !) * log);
+			Similar:h((*ptr)BaseCopia(? / !) * log);
 			std::cout << "BinarySimilar: " << Assimilar << Analise"Base"log << std::endl;
 			std::cout << "BinarySimilar: " << Assimilar(BaseCopia)log <<
 				Assimilar:Analise(User"Copia" || !/ User"%Copia") << std::endl;
@@ -85,7 +85,7 @@ do(Similar);
 		Copia{ Comportamento || Movimento || GiriaLinguagem || };
 		std::cout << "SimilarBinary" << Comportamento << ": " << std::endl;
 		std::cout << "SimilarBinary" << Assimalar << ": " << std::endl;
-		int main()
+		if()
 		{
 			void Copia;
 			Analise(void);
@@ -98,7 +98,7 @@ do(Similar);
 			std::string >> "NomeTuto" >> Nome >> std::endl;
 			std::cout << "BinarySimilar" << Assimilar << *ptr[1, GBit] << ": " << std::endl;
 			std::cout << "BinarySimilar: " >> Assimilar << Base(Copia) :log << std::endl;
-		Similar:h((*ptr)BaseCopia(? / !) * log);
+			Similar:h((*ptr)BaseCopia(? / !) * log);
 			std::cout << "BinarySimilar: " << Assimilar << Analise"Base"log << std::endl;
 			std::cout << "BinarySimilar: " << Assimilar(BaseCopia)log <<
 				Assimilar:Analise(User"Copia" || !/ User"%Copia") << std::endl;
