@@ -1,11 +1,13 @@
 //©moises ferreira de lima
 //moisesfdl_pbt@hotmail.com.br
 
+
+
+
+
 #include <iostream>
 #include <tchar.h>
-
 #define  celular
-
 /*class constructor
 {
 private:
@@ -51,6 +53,22 @@ int main()
 
 
 
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 /*
 #include <io.h>
 #include <similar.h>
