@@ -2,9 +2,6 @@
 //moisesfdl_pbt@hotmail.com.br
 
 
-
-
-
 #include <iostream>
 #include <tchar.h>
 #define  celular
