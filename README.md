@@ -18,7 +18,6 @@ int main()
 		int constructor;int personalidade;int comportamento;
 		Similar == IOs;
 		Similar && iOs;
-		//int Comportamento;int personalidade;int constructor;
 		int Assimilar; 
 		constructor = personalidade;
 		personalidade = comportamento;
