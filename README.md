@@ -44,7 +44,7 @@ int main()
 		(analise = audio)? std::cout<<"\nanallisando audio " : std::cout<<"construir personalidade\n";
 		Similar = {Similar={audio = ouvir}};Similar={Similar={audio = falar}};Similar={Similar={falar && voz}};
 		(haker == global)? std::cout<<"introduzindo sistema Haker" : std::cout<<"\nmonitor Haker";
-		;int responder;
+		int responder;
 		Similar={ Assimilar == responder};
 		std::cout<<"\n"<<&Similar<<"\n";
 		*ptr = Similar;
