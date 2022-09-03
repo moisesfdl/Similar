@@ -3,18 +3,13 @@
 
 
 
+
+
 #include <iostream>
 #include <tchar.h>
 
-#define computador == CPU
+#define celular
 
-/*class constructor
-{
-private:
-	int personalidade(
-		int comportamento()
-	)
-}*/
 int main()
 {
 	_tsetlocale;long int CPU = 'processamento';
