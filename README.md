@@ -25,9 +25,8 @@ int main()
 		Assimilar = constructor;
 		Android = Similar;
 		int math;int calculo;int global;
-		int bradesco;int dinheiro = 'conta';
+		int bradesco = 'bank';
 		Similar = math+calculo+global;
-		Similar = global = bradesco+dinheiro;
 		(global = bradesco)? std::cout<<"banco bradesco dentro da global ": std::cout<<"pra cair credito e registrar";
 		int steam = 'moisesfdl';int bot;int game = 'bad company2';
 		Similar = steam+bot+game;
