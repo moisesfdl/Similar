@@ -28,8 +28,8 @@ int main()
 		int bradesco = 'bank';
 		Similar = math+calculo+global;
 		(global = bradesco)? std::cout<<"banco bradesco dentro da global ": std::cout<<"pra cair credito e registrar";
-		int steam = 'moisesfdl';int bot;int game = 'bad company2';
-		Similar = steam+bot+game;
+		int steam;int game;int usuario;
+		Similar = steam+usuario+game;
 		int localizacao = 'endereço';int endereco;int rua = 'paturi';int numero = 230;int bairro;
 		int cidade = 'sao jose dos campos';int estado = 'sao paulo';int pais = 'brasil';
 		localizacao = endereco;
