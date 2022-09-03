@@ -12,7 +12,7 @@
 
 int main()
 {
-	_tsetlocale;long int CPU = 'processamento';
+	_tsetlocale;long int Android = 'processamento';
 		int IOs;long int Similar;
 		int *ptr;
 		int constructor;int personalidade;int comportamento;
@@ -24,9 +24,9 @@ int main()
 		personalidade = comportamento;
 		Similar = Assimilar;
 		Assimilar = constructor;
-		CPU = Similar;
+		Android = Similar;
 		int math;int calculo;int global;
-		int bradesco = 'conta = 43436-1';int dinheiro = 'conta';
+		int bradesco = 'conta;int dinheiro = 'conta';
 		Similar = math+calculo+global;
 		Similar = global = bradesco+dinheiro;
 		(global = bradesco)? std::cout<<"banco bradesco dentro da global ": std::cout<<"pra cair credito e registrar";
