@@ -20,7 +20,7 @@ int main()
 		payment();
 		instruction();
 		GLOBALHANDLE();
-		cout<<&moisesfdl;
+		cout<<&OBs;
 		*ptr = OBs;
 		 long int &Ref = Similar;
 		return 0;
