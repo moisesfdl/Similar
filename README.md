@@ -5,7 +5,6 @@
 
 #include <iostream>
 #include <tchar.h>
-
 using namespace std;
 void cpu_OBs();
 void payment();
