@@ -2,67 +2,137 @@
 //moisesfdl_pbt@hotmail.com.br
 //#moisesfdl$$2,000,000$$Rg:27.950.938-8
 
-
 #include <iostream>
 #include <tchar.h>
+#include <iomanip>
+#define robo
 using namespace std;
-void cpu_OBs();
+void OBs();
 void payment();
 void instruction();
 void GLOBALHANDLE();
 int main()
 {
-	_tsetlocale;long int moisesfdl;
-		int CPU = 'processamento';
-		int OBs;long int Similar;
+	_tsetlocale;
+		int robot;
 		int *ptr;
-		cpu_OBs();
-		payment();
-		instruction();
-		GLOBALHANDLE();
-		cout<<&OBs;
-		*ptr = OBs;
-		 long int &Ref = Similar;
-		return 0;
+		cout<<"Eu sou a:\nOBs-> robo-amigo[";
+		cout<<sizeof(&OBs);
+		cout<<"]";
+		*ptr = robot;
+		 int &Ref = robot;
+		return 'OBs';
 }
-void cpu_OBs(){
-	int OBs;int CPU = 1;int terminal = ('operator');
+void OBs(){
+	int CPU = 1;int terminal = ('moisesfdl');
+	if(OBs)
+	{
+		CPU = terminal;
+	}
 	int SistemaOperacional = 'windows10Pro';int windows10Pro = 'chave';
-	int proprietario = 'nome';int nome = 'moises';
+	if(OBs)
+	{
+		SistemaOperacional = windows10Pro;
+	}
+	int proprietario = 'nome';int nome = 'moises ferreira de lima';
+	if(OBs)
+	{
+		proprietario = nome;
+	}
 	int similar;int assimilar = 'operator';
-	OBs == (CPU+(terminal));
-	OBs == (SistemaOperacional+(windows10Pro));
-	OBs == (proprietario+(nome));
-	OBs == (similar+(assimilar));
+	if(OBs)
+	{
+		similar == assimilar;
+	}
+	int function;char result;
+	if(OBs)
+	{
+		assimilar == function&&result;
+	}
+	payment();instruction();GLOBALHANDLE();
 }
 void payment(){
-	int GLOBALHANDLE;int cpf;int dda;int cnpj;int americanas;int RESOURCE_CONNECTED = 'worldbank';int hotmail;
-	int amazon;
-	GLOBALHANDLE == (americanas+(RESOURCE_CONNECTED+(hotmail)));
-	GLOBALHANDLE == (amazon+(RESOURCE_CONNECTED+(hotmail)));
-	cpf == (dda+(GLOBALHANDLE));
-	cnpj == (dda+(GLOBALHANDLE));
+	int GLOBALHANDLE;int cpf;int dda;int cnpj;
+	if(OBs)
+	{
+		GLOBALHANDLE == cpf;
+	}
+	if(OBs){
+		GLOBALHANDLE == cnpj;
+	}
 }
 void instruction(){
-	int OBs;int ProcessorInformation;int payment;
-	int constitution;int haker = 'avançado';int NFe;int bank;int corretagem;int CriptoCoin;
+	int Process;int payment;
+	int constitution;int haker = 'avan�ado';int NFe;int bank;int corretagem;int CriptoCoin;
 	int cambio;int contabilidade;
-	OBs == (ProcessorInformation+(constitution));
-	OBs == (ProcessorInformation+(haker));
-	OBs == (ProcessorInformation+(NFe));
-	OBs == (ProcessorInformation+(bank));
-	OBs == (ProcessorInformation+(corretagem));
-	OBs == (ProcessorInformation+(CriptoCoin));
-	OBs == (ProcessorInformation+(payment));
-	OBs == (ProcessorInformation+(cambio));	
-	OBs == (ProcessorInformation+(contabilidade));	
+	 if(OBs)
+	{
+		 Process == payment;
+		 cout<<&payment;	
+	}
+	if(OBs)
+	{
+		 Process == constitution;
+		 cout<<&constitution; 	
+	}	
+	if(OBs)
+	{
+		   Process == haker;
+		   cout<<&haker;	
+	}
+	if(OBs)
+	{
+		   Process == NFe;
+		   cout<<&NFe;	
+	}
+	if(OBs)
+	{
+		Process == bank;
+		cout<<&bank;
+	}
+	if(OBs)
+	{
+		   Process == corretagem;
+		   cout<<&corretagem;	
+	}
+	if(OBs)
+	{
+		   Process == CriptoCoin;
+		   cout<<&CriptoCoin;	
+	}
+	if(OBs)
+	{
+		   Process == cambio;
+		   cout<<&cambio;	
+	}
+	if(OBs)
+	{
+		   Process == contabilidade;
+		   cout<<&contabilidade;	
+	}
 }
 void GLOBALHANDLE(){
 	int base = 0;int local = 1;int dir = '*';int introduce = 's';int procedure = 'apply';
-	int OBs;
-	OBs == (base+(local));
-	OBs == (dir);
-	OBs == (introduce);
-	OBs == (procedure);
+	int dados;
+	if(OBs)
+	{
+		   base == local;
+	}
+	if(OBs)
+	{
+		   base == dir;
+	}
+	if(OBs)
+	{
+		   base = introduce;	
+	}
+	if(OBs)
+	{
+		   base == procedure;	
+	}
+	if(OBs)
+	{
+	 base == dados;	
+	}
 }
 
