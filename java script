@@ -1,0 +1,112 @@
+function sin(){
+    var OBs = 'NOME'
+    if (OBs) {
+        let local
+       ActiveXObject: local
+       getComputedStyle: OBs
+    }
+        return OBs
+}
+sin()
+const robot = sin()
+console.log(robot)
+function Nucleo(){
+    var process = `robot`
+    for(let robot in process){
+        robot = [1]
+        return robot
+    }
+}
+Nucleo()
+const processNucleo = Nucleo()
+console.log(processNucleo)
+function factorySoma(){
+    var soma = '+'
+    if (soma) {
+        return 1 + 1
+    }
+}
+factorySoma()
+const factorMathSun = factorySoma()
+console.log(factorMathSun);
+function comunication(){
+    var OBs = '0'
+    if (OBs) {
+        globalThis: OBs
+    }
+    return OBs    
+}
+comunication()
+const globalComunication = comunication()
+console.log(globalComunication);
+function resolutionMetaFase(){
+    var resultReturn = '$'
+    if (resultReturn) {
+        let OBs
+        this.OBs
+        globalThis: resultReturn
+    }
+    return resultReturn
+}
+resolutionMetaFase()
+const metaFase = resolutionMetaFase()
+console.log(metaFase)
+function protocol(){
+    var Hamper = 'http://'
+    if (Hamper) {
+        let Result
+        globalThis: Hamper
+        if (Result) {
+            globalThis: Result
+        }
+        return Hamper
+    }
+}
+protocol()
+const protocolHamper = protocol()
+console.log(protocolHamper)
+function HamperBradesco(){
+    var ResultConta = 'Cpf\nCnpj'
+    if (ResultConta) {
+        globalThis: ResultConta
+    }
+    return ResultConta
+}
+HamperBradesco()
+const locationResult = HamperBradesco()
+console.log(locationResult)
+function factorySubtrair(){
+    var subitrair = '-'
+    if (subitrair) {
+        return 1 - 1
+    }
+}
+factorySubtrair()
+const factorMathSubtrair = factorySubtrair()
+console.log(factorMathSubtrair)
+function refere_se(){
+    var proximo = 'ser'
+    if (refere_se) {
+        if (proximo) {
+            let humano = 'senhor(a), voce, nome'
+            if (humano) {
+                this.humano
+                true
+            }
+            return proximo, humano
+        }
+    }
+}
+refere_se()
+const refere_sePessoa = refere_se()
+console.log(refere_sePessoa)
+function readOnline(){
+    var Haker = '&& abortar: Haker\n&& atacar: Haker !!'
+    if (Haker) {
+        globalThis: Haker
+    }
+    return Haker
+}
+readOnline()
+const functionConsole = readOnline()
+console.log(functionConsole)
