@@ -1,0 +1,172 @@
+#include <iostream>
+#include <tchar.h>
+#include <iomanip>
+#define robo
+using namespace std;
+	struct instruction
+	{
+		int OBs;
+		int ProcessDigital;
+		int Constituicao;
+		int Haker;
+		int NFe;
+		int Bank;
+		int CorrecaoValor;
+		int CriptoCoin;
+		int cambio;
+		int contabilidade;
+		
+		instruction(){
+		cout<<"Instru�ao \nProcess-Digital->100%\nConstitui�ao->100%\nHaker->100%\nNFe->100%\nBank->100%\nCorre�ao-Valor->100%\n"
+		<<"CriptoCoin->100%\ncambio->100%\ncontabilidade->100%";
+		}
+	};
+struct OBs
+{
+	int terminal;
+	int SistemaOperacional;
+	int windows10Pro;
+	int proprietario;
+	int nome;
+	int similar;
+	int assimilar;
+	int function;
+	char result;
+	OBs(){
+		cout<<"Similar a igualdade\nAssimilar funcionalidade";
+	}
+};
+struct base
+{
+	int local;
+	int console;
+	int introduce;
+	int procedure;
+};
+struct Information
+{
+	int cpf;
+	int cnpj;
+};
+struct analise
+{
+	int audio;
+	int comunication;
+	int local;
+	analise(){
+		cout<<"analise de vocabulario";
+		cout<<"analise de personalidade";
+	}
+};
+void RoboOBs();
+void payment();
+void global();
+void Console();
+void constructor();
+int main()
+{
+	_tsetlocale;
+		int OBs;
+		int cpf = '275.551.158-32';
+		int *ptr;
+		cout<<"Eu sou a:\nOB-> robo-amigo[";
+		cout<<sizeof(&RoboOBs);
+		cout<<"]";
+		RoboOB();
+		*ptr = OBs;
+		 int &Ref = OBs;
+		return cpf;
+}
+void RoboOBs(){
+	OBs Robo;
+	if(RoboOBs)
+	{
+		   	Robo.terminal = 'moisesfdl';
+		   	Robo.SistemaOperacional = 'Windows10';
+		   	Robo.windows10Pro;
+		   	cout<<&Robo.terminal;
+	}
+	if(RoboOBs)
+	{
+		Robo.nome;
+		Robo.proprietario;
+		cout<<&Robo.proprietario;
+	}
+	if(RoboOBs)
+	{
+		Robo.similar;
+		cout<<&Robo.similar;
+		Robo.assimilar;
+		cout<<&Robo.assimilar;
+	}
+	if(RoboOBs)
+	{
+		Robo.function;
+		Robo.result;
+		cout<<&Robo.result;
+	}
+	payment();global();constructor();Console();
+	}
+void payment(){
+	Information document;
+	if(RoboOBs)
+	{
+		document.cpf;
+		cout<<&document.cpf;
+		document.cnpj;
+		cout<<&document.cnpj;
+	}
+}
+void global(){
+	instruction argument;
+	if(argument.OBs)
+	{
+		argument.ProcessDigital;
+		cout<<&argument.ProcessDigital;
+		argument.Constituicao;
+		cout<<&argument.Constituicao;
+		argument.Haker;
+		cout<<&argument.Haker;
+		argument.NFe;
+		cout<<&argument.NFe;
+		argument.Bank;
+		cout<<&argument.Bank;
+		argument.CorrecaoValor;
+		cout<<&argument.CorrecaoValor;
+		argument.CriptoCoin;
+		cout<<&argument.CriptoCoin;
+		argument.cambio;
+		cout<<&argument.cambio;
+		argument.contabilidade;
+		cout<<&argument.contabilidade;
+	}
+	cout<<&argument.OBs;
+}
+void Console(){
+	base dado;
+	if(RoboOBs)
+	{
+		dado.local;
+		cout<<&dado.local;
+		dado.console;
+		cout<<&dado.console;
+		dado.introduce;
+		cout<<&dado.introduce;
+		dado.procedure;
+		cout<<&dado.procedure;
+	}
+}
+void constructor(){
+	analise similar;
+	if(RoboOBs)
+	{
+		similar.audio;
+		if(RoboOBs)
+		{
+			similar.comunication;
+			similar.local;
+			cout<<&similar.comunication;
+		}
+		cout<<&similar.audio;
+	}
+}
