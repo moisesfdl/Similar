@@ -69,7 +69,7 @@ int main()
 		int OBs;
 		int cpf = '275.551.158-32';
 		int *ptr;
-		cout<<"Eu sou a:\nOB-> robo-amigo[";
+		cout<<"Eu sou a:\nOBs-> robo-amigo[";
 		cout<<sizeof(&RoboOBs);
 		cout<<"]";
 		RoboOB();
