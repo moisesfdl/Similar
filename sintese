@@ -1,0 +1,163 @@
+/**
+ * sintese{sensorial[after:[+1]]}
+ */
+do {
+    function OB(){
+        console.log(Array(OB));
+        function sin(){
+    var OB = 'NOME'
+    if (OB = Array.length === 1) {
+        let local
+       ActiveXObject: local = new Array(1)
+       getComputedStyle: OB = new Array(1)
+    }
+        return OB
+}
+sin()
+const robot = sin()
+console.log(Array(robot));
+function Nucleo(){
+    var process = `robot`
+    for(var robot in process){
+        console.log(Array(robot));
+        robot = new Array(1)
+        return robot
+    }
+}
+Nucleo()
+const processNucleo = Nucleo()
+console.log(processNucleo);
+function factorySoma(){
+    const soma = function(a, b){
+        return a + b
+};
+console.log(Array(soma(1, 1)));
+}
+factorySoma()
+const factorMathSun = factorySoma()
+console.log(factorMathSun);
+function comunication(){
+    var OB = 'moisesfdl'
+    if (OB = Array.length === 1) {
+        globalThis: OB = new Array(1)
+    }
+    return OB    
+}
+comunication();
+const globalComunication = comunication()
+console.log(globalComunication);
+function resolutionMetaFase(){
+    var resultReturn = '$ ←'
+    if (resultReturn = Array.length === 1) {
+        globalThis: resultReturn = new Array(`=+$ ←`);
+        let OB
+        if (OB = Array.length === 1) {
+            this.OB = new Array(1)
+        }
+        return OB
+    }
+    return resultReturn
+}
+resolutionMetaFase()
+const metaFase = resolutionMetaFase();
+console.log(metaFase);
+function protocol(){
+    var arraia = 'id ←'
+    if (arraia = Array.length === 1) {
+        globalThis: arraia = new Array(1)
+        let Result
+        if (Result = Array.length === 1) {
+            globalThis: Result = new Array(1)
+        }
+        return Result
+    }
+    return arraia
+}
+protocol()
+const Colection = protocol();
+console.log(Colection);
+function global(){
+    var ResultConta = '→ Cpf ← \n→ Cnpj ←'
+    if (ResultConta = Array.length === 1) {
+        globalThis: ResultConta = new Array(1)
+    }
+    return ResultConta
+}
+global()
+const ColectionGlobal = global();
+console.log(ColectionGlobal);
+function similar(){
+    var proximo = 'ser'
+    if (refere_se = Array.length === 1) {
+        refere_se = `←`
+        if (proximo = Array.length === 1) {
+            proximo = `voce`
+            let humano = 'senhor(a), voce, nome'
+            if (humano = Array.length === 1) {
+                this.humano = new Array(1)
+                true
+            }
+            return humano
+        }
+        return proximo
+    }
+    return refere_se
+}
+similar()
+const assimila = similar();
+console.log(assimila);
+function readOnline(){
+    var Haker = '&& abortar ← Haker \n&& → || atacar → Haker !!'
+    if (Haker = Array.length === 1) {
+        globalThis: Haker = new Array(1)
+    }
+    return Haker
+}
+readOnline()
+const functionConsole = readOnline()
+console.log(functionConsole)
+const Valor = function(){
+    var Valor = `$10000`
+    console.log(Array(Valor));
+    for (var Byte in Valor) {
+        while (Byte >= 10000) {
+            Byte + 1;
+            Byte++;
+        }
+        Byte = new Array(1)
+        return Byte
+    }
+}
+console.log(Valor());
+const soma = (a, b) => a + b 
+console.log(Array(soma(1, 1)));
+const subitrair = (a, b) => a - b 
+console.log(Array(subitrair(1, 1)));
+const multiplicar = (a, b) => a * b 
+console.log(Array(multiplicar(1, 1)));
+const dividir = (a, b) => a / b 
+console.log(Array(dividir(1, 1)));
+const Instruction = function(OB){
+    if (OB = Array.length === 1) {
+        for (const Constitution in OB) {
+            if (Object.hasOwnProperty.call(OB, Constitution)) {
+                const element = OB[Constitution];
+                Constitution = `← Diretriz Civil Moral\n`;
+                for (const Haker in OB) {
+                    if (Object.hasOwnProperty.call(OB, Haker)) {
+                        const element = OB[Haker];
+                        Haker = `← Conhecimento e Manobras de Hakeamento\n`;
+                        return OB
+                    }
+                    return OB
+                }
+            }
+            return Constitution
+        }
+    }
+    return OB;
+}
+console.log(Instruction());
+}
+OB()
+} while (`sintese`);
