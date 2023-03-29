@@ -293,7 +293,6 @@ void usuario(){
 			  cout<<*ptr<<sizeof(&moisesfdl);
 			  cout<<']';
 		  }
-		
 	}
 }
 void constructor(){
@@ -314,10 +313,8 @@ void constructor(){
 				OB = similar.local;
 				cout<<*ptr;
 				cout<<']';
-			}
-			
+			}	
 		}
-		
 	}
 }
 void Valor(){
@@ -337,18 +334,17 @@ void Valor(){
 			cout<<Num2<<sizeof(&Soma, Num1);
 			cout<<';';	
 		}
-		
 	}
 }
-float Soma(float Num1, float Num2){
+ float Soma(float Num1, float Num2){
 	return Num1 + Num2;
 }
-float Subtrair(float Num1, float Num2){
+ float Subtrair(float Num1, float Num2){
 	return Num1 - Num2;
 }
-float Multiplicar(float Num1, float Num2){
+ float Multiplicar(float Num1, float Num2){
 	return Num1 * Num2;
 }
-float Divisao(float Num1, float Num2){
+ float Divisao(float Num1, float Num2){
 	return Num1 / Num2;
 }
