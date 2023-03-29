@@ -1,0 +1,133 @@
+#include <iostream>
+#include <tchar.h>
+#include <iomanip>
+#define robo
+using namespace std;
+void OBs();
+void payment();
+void instruction();
+void GLOBALHANDLE();
+int main()
+{
+	_tsetlocale;
+		int robot;
+		int *ptr;
+		cout<<"Eu sou a:\nOBs-> robo-amigo[";
+		cout<<sizeof(&OBs);
+		cout<<"]";
+		*ptr = robot;
+		 int &Ref = robot;
+		return 'OBs';
+}
+void OBs(){
+	int CPU = 1;int terminal = ('moisesfdl');
+	if(OBs)
+	{
+		CPU = terminal;
+	}
+	int SistemaOperacional = 'windows10Pro';int windows10Pro = 'chave';
+	if(OBs)
+	{
+		SistemaOperacional = windows10Pro;
+	}
+	int proprietario = 'nome';int nome = 'moises ferreira de lima';
+	if(OBs)
+	{
+		proprietario = nome;
+	}
+	int similar;int assimilar = 'operator';
+	if(OBs)
+	{
+		similar == assimilar;
+	}
+	int function;char result;
+	if(OBs)
+	{
+		assimilar == function&&result;
+	}
+	payment();instruction();GLOBALHANDLE();
+}
+void payment(){
+	int GLOBALHANDLE;int cpf;int dda;int cnpj;
+	if(OBs)
+	{
+		GLOBALHANDLE == cpf;
+	}
+	if(OBs){
+		GLOBALHANDLE == cnpj;
+	}
+}
+void instruction(){
+	int Process;int payment;
+	int constitution;int haker = 'avan�ado';int NFe;int bank;int corretagem;int CriptoCoin;
+	int cambio;int contabilidade;
+	 if(OBs)
+	{
+		 Process == payment;
+		 cout<<&payment;	
+	}
+	if(OBs)
+	{
+		 Process == constitution;
+		 cout<<&constitution; 	
+	}	
+	if(OBs)
+	{
+		   Process == haker;
+		   cout<<&haker;	
+	}
+	if(OBs)
+	{
+		   Process == NFe;
+		   cout<<&NFe;	
+	}
+	if(OBs)
+	{
+		Process == bank;
+		cout<<&bank;
+	}
+	if(OBs)
+	{
+		   Process == corretagem;
+		   cout<<&corretagem;	
+	}
+	if(OBs)
+	{
+		   Process == CriptoCoin;
+		   cout<<&CriptoCoin;	
+	}
+	if(OBs)
+	{
+		   Process == cambio;
+		   cout<<&cambio;	
+	}
+	if(OBs)
+	{
+		   Process == contabilidade;
+		   cout<<&contabilidade;	
+	}
+}
+void GLOBALHANDLE(){
+	int base = 0;int local = 1;int dir = '*';int introduce = 's';int procedure = 'apply';
+	int dados;
+	if(OBs)
+	{
+		   base == local;
+	}
+	if(OBs)
+	{
+		   base == dir;
+	}
+	if(OBs)
+	{
+		   base = introduce;	
+	}
+	if(OBs)
+	{
+		   base == procedure;	
+	}
+	if(OBs)
+	{
+	 base == dados;	
+	}
+}
