@@ -75,7 +75,7 @@ void OB();
 void payment();
 void global();
 void processamento();
-void usuario();
+void usuario();void connection();
 void constructor();void CALLBACK_EVENT();
 void Valor();void LoadModule();
 float Divisao(float Num1, float Num2);
@@ -108,8 +108,6 @@ void processamento(){
 		}
 	}
 	} while('processamento', Auto[1]);
-	OB();payment();global();usuario();
-	constructor();Valor();CALLBACK_EVENT();
 	}
 }
 void OB(){
@@ -117,7 +115,6 @@ void OB(){
 	Robo OB;
 	if(processamento)
 	{
-		processamento();
 		*ptr == OB.similar;
 		cout<<'[ARRAY_INFO';
 		OB.similar == OB.terminal;
@@ -126,6 +123,7 @@ void OB(){
 		OB.similar == OB.proprietario && OB.nome == 'Moises ferreira de lima';
 		OB.similar == OB.assimilar == OB.function;
 		OB.similar == OB.result;
+		processamento();
 		cout<<*ptr;	
 		cout<<']';
 }
@@ -138,11 +136,11 @@ void payment(){
 	{
 		if(OB)
 		{
-			processamento();
 			*ptr == pagamento;
+		cout<<'[ARRAY_INFO';
 			pagamento == document.cpf == '275.551.158-32';
 			pagamento == document.cnpj == '35.669.326/0001-90';
-		cout<<'[ARRAY_INFO';
+		processamento();
 		cout<<*ptr;
 		cout<<']';	
 		}
@@ -157,72 +155,72 @@ void global(){
 		*ptr == OB;
 		if(OB)
 		{
-			processamento();
 			cout<<'[ARRAY_INFO';
+			processamento();
 			OB == argument.ProcessDigital;
-			cout<<*ptr<<sizeof(&argument.ProcessDigital);
+			cout<<*ptr<<sizeof(&argument.ProcessDigital);		
 			cout<<']';	  		
 		}
 		if(OB)
 		{
-			processamento();
 			cout<<'[ARRAY_INFO';
+			processamento();
 			OB == argument.Constituicao;
 			cout<<*ptr<<sizeof(&argument.Constituicao);
 			cout<<']';	  		
 		}
 		if(OB)
 		{
-			processamento();
 			cout<<'[ARRAY_INFO';
+			processamento();
 			OB == argument.Haker;
 			cout<<*ptr<<sizeof(&argument.Haker);
 			cout<<']';	  		
 		}
 		if(OB)
 		{
-			processamento();
 			cout<<'[ARRAY_INFO';
+			processamento();
 			OB == argument.NFe;
 			cout<<*ptr<<sizeof(&argument.NFe);
 			cout<<']';	  		
 		}
 		if(OB)
 		{
-			processamento();
 			cout<<'[ARRAY_INFO';
+			processamento();
 			OB == argument.Bank;
 			cout<<*ptr<<sizeof(&argument.Bank);
 			cout<<']';	  		
 		}
 		if(OB)
 		{
-			processamento();
 			cout<<'[ARRAY_INFO';
+			processamento();
 			OB == argument.CorrecaoValor;
 			cout<<*ptr<<sizeof(&argument.CorrecaoValor);
 			cout<<']';	  		
 		}
 		if(OB)
 		{
-			processamento();
 			cout<<'[ARRAY_INFO';
+			processamento();
 			OB == argument.CriptoCoin;
 			cout<<*ptr<<sizeof(&argument.CriptoCoin);
 			cout<<']';	  		
 		}
 		if(OB)
 		{
-			processamento();
 			cout<<'[ARRAY_INFO';
+			processamento();
 			OB == argument.cambio;
 			cout<<*ptr<<sizeof(&argument.cambio);
 			cout<<']';	  		
 		}
 		if(OB)
 		{
-			processamento();
 			cout<<'[ARRAY_INFO';
+			processamento();
 			OB == argument.contabilidade;
 			cout<<*ptr<<sizeof(&argument.contabilidade);
 			cout<<']';	  		
@@ -242,19 +240,19 @@ void LoadModule(){
 	unsigned short int Constituicao;
 	if(global)
 	{	
-		global();
-		*ptr = ocntabilidade;
-		*ptr = cambio;
-		*ptr = CriptoCoin;
-		*ptr = ProcessDigital;
-		*ptr = CorrecaoValor;
-		*ptr = Bank;
-		*ptr = NFe;
-		*ptr = Haker;
-		*ptr = Constituicao;
 		if(OB)
 		{
 			cout<<'[ARRAY_INFO';
+			global();
+			*ptr = ocntabilidade;
+			*ptr = cambio;
+			*ptr = CriptoCoin;
+			*ptr = ProcessDigital;
+			*ptr = CorrecaoValor;
+			*ptr = Bank;
+			*ptr = NFe;
+			*ptr = Haker;
+			*ptr = Constituicao;
 			cout<<&*ptr;
 			cout<<']';
 		}		
@@ -263,7 +261,7 @@ void LoadModule(){
 void CALLBACK_EVENT(){
 	unsigned short int *ptr;
 	unsigned short int excel;
-	if(processamento)
+	if(*ptr)
 	{
 		if(OB)
 		{
@@ -271,8 +269,8 @@ void CALLBACK_EVENT(){
 			*ptr = moisesfdl;
 			if(excel)
 			{
-				processamento();
 				cout<<'[ARRAY_INFO';
+				processamento();
 				cout<<&*ptr;
 				cout<<']';
 			}
@@ -283,37 +281,56 @@ void usuario(){
 	unsigned int *ptr;
 	unsigned short int moisesfdl;
 	base dado;
-	if(processamento)
+	if(*ptr)
 	{
 		*ptr == moisesfdl;
 		if(OB)
 		{
 			  cout<<'[ARRAY_INFO';
+			  processamento();
 			  moisesfdl == dado.id+dado.titulo+dado.conteudo;
 			  cout<<*ptr<<sizeof(&moisesfdl);
 			  cout<<']';
 		  }
+		
 	}
 }
 void constructor(){
 	unsigned int *ptr;
 	unsigned short int OB;
 	analise similar;
-	if(processamento)
+	if(*ptr)
 	{
 		if(OB)
 		{
 			*ptr = OB;
 			if(usuario)
 			{
-				processamento();
 				cout<<'[ARRAY_INFO';
+				processamento();
 				OB = similar.audio;
 				OB = similar.comunication;
 				OB = similar.local;
 				cout<<*ptr;
 				cout<<']';
-			}	
+			}
+			
+		}
+		
+	}
+}
+void connection(){
+	int *ptr;
+	int bank;
+	if(*ptr)
+	{
+		*ptr == bank;
+		if(connection)
+		{
+			cout<<'[ARRAY_INFO';
+			processamento();
+			cout<<sizeof(*ptr);
+			cout<<';';	
 		}
 	}
 }
@@ -324,6 +341,7 @@ void Valor(){
 		if(OB)
 		{
 			cout<<'[ARRAY_INFO';
+			processamento();
 			cout<<Num1;
 			cout<<';';
 		}
@@ -331,20 +349,22 @@ void Valor(){
 		{
 			Soma(Num1, Num2);
 			cout<<'[ARRAY_INFO';
+			processamento();
 			cout<<Num2<<sizeof(&Soma, Num1);
 			cout<<';';	
 		}
+		
 	}
 }
- float Soma(float Num1, float Num2){
+float Soma(float Num1, float Num2){
 	return Num1 + Num2;
 }
- float Subtrair(float Num1, float Num2){
+float Subtrair(float Num1, float Num2){
 	return Num1 - Num2;
 }
- float Multiplicar(float Num1, float Num2){
+float Multiplicar(float Num1, float Num2){
 	return Num1 * Num2;
 }
- float Divisao(float Num1, float Num2){
+float Divisao(float Num1, float Num2){
 	return Num1 / Num2;
 }
